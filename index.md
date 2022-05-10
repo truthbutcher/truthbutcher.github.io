@@ -9,6 +9,6 @@ There is a list of wonderful CS courses for self studying as well as my study no
 
 I enjoy watching old movies as well as spending time with the nature during my spare time. If you have anything to share with me, please feel free to contact me through my email: tli104@jhu.edu
 
-My [CV](truthbutcher.github.io/assets/CV.pdf) is here. 
+My [CV](https://truthbutcher.github.io/assets/CV.pdf) is here. 
 
 
