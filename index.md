@@ -13,7 +13,7 @@ There is a list of wonderful CS courses for self studying as well as my study no
 
 I enjoy watching old movies as well as spending time with the nature during my spare time. If you have anything to share with me, please feel free to contact me through my email: tli104@jhu.edu
 
-[Here](https://github.com/truthbutcher/studymaterials/blob/main/CV_Tianjian_2022_Homepage.pdf) is my CV. If you have anything to share with me, please feel free to contact me through my email: tl2387@nyu.edu
+[CV](truthbutcher.github.io/assets/CV.pdf) is my CV. 
 
 ### Markdown
 
